@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hi! 🫶
 
-<!--
-**miszq/miszq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### My name is Mariola Mielczarek 💕
 
-Here are some ideas to get you started:
+I am also known as **Misha**,  
+since 8 years I'm a *flower tattoo artist* in Poland 🌸  
+IG: *@misha.tattoo*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm a **bioinformatics student** 🧬  
+at *Wrocław University of Environmental and Life Sciences*
+
+I am a **lab practician**,  
+doing research about plant genomes 🌱  
+
+Privately, I'm an **Ekostraz volunteer**  
+I mainly take care of **hedgehogs** 🦔  
+Priv IG: *@mleczareq*
+
+#### ✨ SKILLS ✨
+- **R**: *Intermediate level with experience in data analysis and visualization*
+- **Python**: *Intermediate level with a focus on bioinformatics and scripting*
+- **SQL**: *Beginner level, currently learning database management and queries*
+
+
+- 🔭 I’m currently working and studying
+- 🌱 I’m learning to become Data Scientist
