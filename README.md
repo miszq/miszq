@@ -1,6 +1,6 @@
 ## Hi! 💖
 
-#### My name is Mariola Mielczarek 💕
+#### My name is Maja Mielczarek 💕
 
 I am also known as **Misha**,  
 since 8 years I'm a *flower tattoo artist* in Poland 🌸  
